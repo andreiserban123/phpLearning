@@ -36,24 +36,6 @@
             </PendingDiffInfo>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/controllers/about.php">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/controllers/about.php" />
-              <option name="originalContent" value="&lt;?php&#10;&#10;$heading = &quot;About Us&quot;;&#10;require '../views/about.view.php';&#10;" />
-              <option name="updatedContent" value="&lt;?php&#10;&#10;$heading = &quot;About Us&quot;;&#10;require __DIR__ . '/../views/about.view.php';" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/controllers/contact.php">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/controllers/contact.php" />
-              <option name="originalContent" value="&lt;?php&#10;&#10;$heading = &quot;Contact Us&quot;;&#10;require '../views/contact.view.php';&#10;" />
-              <option name="updatedContent" value="&lt;?php&#10;&#10;$heading = &quot;Contact Us&quot;;&#10;require __DIR__ . '/../views/contact.view.php';" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/controllers/home.php">
           <value>
             <PendingDiffInfo>

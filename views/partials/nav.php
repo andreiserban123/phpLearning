@@ -14,6 +14,8 @@
                         <a href="/course/about"
                            class="rounded-md <?= url('/course/about') ? 'bg-gray-900 text-white' : 'text-gray-300'; ?>  px-3 py-2 text-sm font-medium text-white">About
                             Us</a>
+                        <a href="/course/notes"
+                           class="rounded-md <?= url('/course/notes') ? 'bg-gray-900 text-white' : 'text-gray-300'; ?>  px-3 py-2 text-sm font-medium text-white">Notes</a>
                         <a href="/course/contact"
                            class="rounded-md px-3 py-2 text-sm font-medium <?= url('/course/contact') ? 'bg-gray-900 text-white' : 'text-gray-300'; ?>  hover:bg-white/5 hover:text-white">Contact</a>
 
